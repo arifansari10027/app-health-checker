@@ -12,7 +12,7 @@ A simple Python script to check the uptime of a web application by verifying its
 - Python 3.x
 - `requests` library
 
-Install `requests` if you don’t have it:
+How to run:
 
 ```bash
 pip install requests
