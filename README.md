@@ -17,8 +17,6 @@ Install `requests` if you don’t have it:
 ```bash
 pip install requests
 
-```bash
 git clone https://github.com/arifansari10027/app-health-checker.git
 
-```bash
 python app.py <APPLICATION_URL>
